@@ -1,4 +1,4 @@
-<img width="50%" alt="메인 배너" src="https://github.com/CommitTheKermit/Captain_Bones_Korean/assets/113445660/34629c28-333a-4aae-ad12-c738ada79f66"/>
+<img width="50%" alt="메인 배너" src="https://github.com/CommitTheKermit/Captain_Bones_Korean/assets/113445660/f68c5850-abef-49e2-8b21-131d1680a220"/>
 
 ## **레포지토리 개요**
     게임 이름 : Captain Bones
